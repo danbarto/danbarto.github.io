@@ -1,31 +1,16 @@
-## Portfolio
+# About me
 
----
+I'm a particle physicist currently working at [Boston University](https://www.bu.edu).
+I work with the [CMS experiment](https://cms.cern) at the [CERN](https://home.cern) Large Hadron Collider.
+My github username is inspired by Bart Simpson`s alter-ego *El Barto*.
 
-### Category Name 1 
+## Research interests
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+My research is currently focussed on understanding the coupling of top quarks to the SM gauge bosons.
+You can find results of my previous work [in this paper](https://arxiv.org/abs/1907.11270), and projections for future results in [this document](https://arxiv.org/abs/1902.04070).
+I also work on the devolpment of a new part of the CMS detector [that can measure the arrival time of particles with a below 50ns time resolution.](https://cds.cern.ch/record/2667167)
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
+## Publications and talks
 
 
 
