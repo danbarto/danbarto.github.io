@@ -12,7 +12,8 @@ I also work on the devolpment of a new part of the CMS detector [that can measur
 
 ## Publications and talks
 
-
+[Search for top squarks](https://arxiv.org/abs/2008.05936)
+<img height=200 src="images/stop2l_Run2.png?raw=true"/>
 
 
 ---
