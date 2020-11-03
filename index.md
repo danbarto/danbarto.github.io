@@ -14,7 +14,7 @@ I also work on the devolpment of a new part of the CMS detector [that can measur
 
 [Search for top squarks](https://arxiv.org/abs/2008.05936)
 
-<img height=300 src="images/stop2l_Run2.png?raw=true"/>
+<img height=300 src="https://cds.cern.ch/record/2727987/files/Figure_003-a.png?raw=true"/>
 
 
 ---
