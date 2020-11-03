@@ -16,7 +16,9 @@ I also work on the devolpment of a new part of the CMS detector [that can measur
 
 <img height=300 src="https://cds.cern.ch/record/2727987/files/Figure_003-a.png?raw=true"/>
 
+[Measurement of top quark pair production in association with a Z boson in proton-proton collisions at 13 TeV](https://arxiv.org/abs/1907.11270)
 
+<img height=300 src="https://cds.cern.ch/record/2684052/files/Figure_011.png?raw=true"/>
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
