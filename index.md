@@ -4,6 +4,9 @@ I'm a particle physicist currently working at [Boston University](https://www.bu
 I work with the [CMS experiment](https://cms.cern) at the [CERN](https://home.cern) Large Hadron Collider.
 My github username is inspired by Bart Simpson's alter-ego *El Barto*.
 
+I like riding my bike around Boston, reading books and listening to good music (just rediscovered the amazing [hype machine](https://hypem.com/DanBarto)).
+I still have a regular news paper subscription.
+
 ## Research interests
 
 My research is currently focussed on understanding the coupling of top quarks to the [SM](https://en.wikipedia.org/wiki/Standard_Model) [gauge bosons](https://en.wikipedia.org/wiki/W_and_Z_bosons).
