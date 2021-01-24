@@ -15,30 +15,26 @@ During my [PhD thesis](https://repositum.tuwien.at/handle/20.500.12708/2667) I f
 
 ## Selected publications
 
-[Search for top squark pair production in dilepton final states](https://inspirehep.net/literature/1811597)
+[Search for top squark pair production in dilepton final states, 2020](https://inspirehep.net/literature/1811597)
 
-[Measurement of top quark pair production in association with a Z boson in proton-proton collisions at 13 TeV](https://inspirehep.net/literature/1746445)
+[Measurement of top quark pair production in association with a Z boson in proton-proton collisions at 13 TeV, 2019](https://inspirehep.net/literature/1746445)
 
-[Standard Model Physics at the HL-LHC and HE-LHC](https://inspirehep.net/literature/1720009)
+[Standard Model Physics at the HL-LHC and HE-LHC, 2019](https://inspirehep.net/literature/1720009)
 
-[Performance of missing transverse momentum reconstruction in proton-proton collisions at 13 TeV using the CMS detector](https://inspirehep.net/literature/1724943)
+[Performance of missing transverse momentum reconstruction in proton-proton collisions at 13 TeV using the CMS detector, 2019](https://inspirehep.net/literature/1724943)
 
-[First constraints on invisible Higgs boson decays using ttH production at 13 TeV](https://inspirehep.net/literature/1726298)
+[First constraints on invisible Higgs boson decays using ttH production at 13 TeV, 2019](https://inspirehep.net/literature/1726298)
 
-[Search for top squarks and dark matter particles in opposite-charge dilepton final states](https://inspirehep.net/literature/1634253) [Proceedings](https://inspirehep.net/literature/1695519)
+[Search for top squarks and dark matter particles in opposite-charge dilepton final states, 2017](https://inspirehep.net/literature/1634253), [Proceedings](https://inspirehep.net/literature/1695519)
 
-[Search for supersymmetry in events with one lepton and multiple jets exploiting the angular correlation between the lepton and the missing transverse momentum in proton-proton collisions at 13 TeV](https://inspirehep.net/literature/1627612)
+[Search for supersymmetry in events with one lepton and multiple jets exploiting the angular correlation between the lepton and the missing transverse momentum in proton-proton collisions at 13 TeV, 2017](https://inspirehep.net/literature/1627612)
 
 
 ## Selected talks
 
 
 
-<img height=100 src="https://cds.cern.ch/record/2727987/files/Figure_003-a.png?raw=true"/>
-
-<img height=100 src="https://cds.cern.ch/record/2684052/files/Figure_011.png?raw=true"/>
-
-<img height=100 src="http://cds.cern.ch/record/2286124/files/Figure_005-b.png?raw=true"/>
+<img height=100 src="https://cds.cern.ch/record/2727987/files/Figure_003-a.png?raw=true"/> <img height=100 src="https://cds.cern.ch/record/2684052/files/Figure_011.png?raw=true"/> <img height=100 src="http://cds.cern.ch/record/2286124/files/Figure_005-b.png?raw=true"/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
