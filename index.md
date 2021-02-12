@@ -32,12 +32,20 @@ During my [PhD thesis](https://repositum.tuwien.at/handle/20.500.12708/2667) I f
 
 [Search for supersymmetry in events with one lepton and multiple jets exploiting the angular correlation between the lepton and the missing transverse momentum in proton-proton collisions at 13 TeV, 2017](https://inspirehep.net/literature/1627612)
 
+<img height=100 src="https://cds.cern.ch/record/2727987/files/Figure_003-a.png?raw=true"/> <img height=100 src="https://cds.cern.ch/record/2684052/files/Figure_011.png?raw=true"/> <img height=100 src="http://cds.cern.ch/record/2286124/files/Figure_005-b.png?raw=true"/>
 
 ## Selected talks
 
+- Non-stop searches for new physics, Physics Seminar Feb 2021, UT San Antonio, TX
+- EFT reweighting technicalities, CMS Top Group Workshop 2019, Hamburg, Germany
+- Status of top squark searches and combination plan including top corridor studies, CMS SUSY Workshop 2019, Santander, Spain
+- The top-Z coupling: theory and recent results (with Eleni Vryonidou), CERN collider cross talk 2019, Meyrin, Switzerland
+- CMS SUSY searches: hot topics, new results and future prospects, DISCRETE 2018, Vienna, Austria
+- Search for top squarks and dark matter particles in opposite-charge dilepton final states at CMS, Third Alpine LHC Physics Summit 2018, Obergurgl, Austria
+- Search for supersymmetry in the single-lepton final state at CMS, SUSY 2017, Mumbai, India
+- The MET Significance algorithm, CMS JetMET Workshop 2017, Helsinki, Finland
+- Search for supersymmetry in pp collisions at 13 TeV in the single lepton final state with the CMS experiment, APS 2016, Vienna, Austria
 
-
-<img height=100 src="https://cds.cern.ch/record/2727987/files/Figure_003-a.png?raw=true"/> <img height=100 src="https://cds.cern.ch/record/2684052/files/Figure_011.png?raw=true"/> <img height=100 src="http://cds.cern.ch/record/2286124/files/Figure_005-b.png?raw=true"/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
