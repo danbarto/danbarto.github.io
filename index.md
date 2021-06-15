@@ -36,7 +36,10 @@ During my [PhD thesis](https://repositum.tuwien.at/handle/20.500.12708/2667) I f
 
 ## Selected talks
 
-- Non-stop searches for new physics, Physics Seminar Feb 2021, UT San Antonio, TX
+- Searches for third generation SUSY particles, Conference on LHC Physics, June 2021, online
+- Stop, Hammer Time! Using novel tools to nail down the top squark during Run 2, HEP Seminar May 2021 (online), UW Madison, WI
+- Cornering the top squark with the CMS detector, CERN-LHC Seminar April 2021 (online), Meyrin, Switzerland
+- Non-stop searches for new physics, Physics Seminar Feb 2021 (online), UT San Antonio, TX
 - EFT reweighting technicalities, CMS Top Group Workshop 2019, Hamburg, Germany
 - Status of top squark searches and combination plan including top corridor studies, CMS SUSY Workshop 2019, Santander, Spain
 - The top-Z coupling: theory and recent results (with Eleni Vryonidou), CERN collider cross talk 2019, Meyrin, Switzerland
