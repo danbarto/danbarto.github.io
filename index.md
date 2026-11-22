@@ -1,6 +1,6 @@
 # About me
 
-I'm a physicist and project manager currently in the Quantum Technology sector.
+I'm a physicist and project manager currently working in the Quantum Technology sector.
 In my former life, I was trained as a particle physicist and worked at [Boston University](https://www.bu.edu) with
 the [CMS experiment](https://cms.cern) at the [CERN](https://home.cern) Large Hadron Collider.
 I was a LPC Distinguished Researcher for the 2022 and 2023 terms at the Fermi National Accelerator Lab [LHC Physics Center](https://lpc.fnal.gov).
