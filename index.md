@@ -1,17 +1,20 @@
 # About me
 
-I'm a particle physicist currently working at [Boston University](https://www.bu.edu).
-I work with the [CMS experiment](https://cms.cern) at the [CERN](https://home.cern) Large Hadron Collider.
+I'm a physicist and project manager currently in the Quantum Technology sector.
+In my former life, I was trained as a particle physicist and worked at [Boston University](https://www.bu.edu) with
+the [CMS experiment](https://cms.cern) at the [CERN](https://home.cern) Large Hadron Collider.
 I was a LPC Distinguished Researcher for the 2022 and 2023 terms at the Fermi National Accelerator Lab [LHC Physics Center](https://lpc.fnal.gov).
 My github username is inspired by Bart Simpson's alter-ego *El Barto*.
 
-I like running or riding my bike around Boston, reading books and listening to good music.
+You can find me running the woods, flats and tracks around Vienna.
+In 2026, I finally ran the Boston Marathon, after having lived and run there for a good part of the 2020s.
+I also enjoy casually riding my bike, reading books and listening to good music.
 
 ## Research interests
 
-My research is currently focussed on understanding the coupling of top quarks to the [SM](https://en.wikipedia.org/wiki/Standard_Model) [gauge bosons](https://en.wikipedia.org/wiki/W_and_Z_bosons).
+My particle physics research was focussed on understanding the coupling of top quarks to the [SM](https://en.wikipedia.org/wiki/Standard_Model) [gauge bosons](https://en.wikipedia.org/wiki/W_and_Z_bosons).
 You can find results of my previous work [in this paper](https://arxiv.org/abs/1907.11270), and projections for future results in [this document](https://arxiv.org/abs/1902.04070).
-A large part of my research work currently revolves around the development of a new part of the CMS detector [that can measure the arrival time of particles with a below 40ps time resolution.](https://cds.cern.ch/record/2667167).
+A large part of my research work revolved around the development of a new part of the CMS detector [that can measure the arrival time of particles with a below 40ps time resolution.](https://cds.cern.ch/record/2667167).
 
 During my [PhD thesis](https://repositum.tuwien.at/handle/20.500.12708/2667) I focussed on searches for [supersymmetric](https://en.wikipedia.org/wiki/Supersymmetry) particles like [gluinos](https://arxiv.org/abs/1709.09814) or [top squarks](https://arxiv.org/abs/2107.10892).
 
@@ -63,6 +66,7 @@ I have coordinated work with different companies to adopt servo drives as actuat
 
 - LPC Distinguished Researcher, 2022 and 2023
 - CMS Award 2022
+- Breakthrough Prize in Fundamental Physics, 2025
 
 ## Selected publications
 
